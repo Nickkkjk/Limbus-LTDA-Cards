@@ -1,0 +1,37 @@
+{
+    "appearence": {
+        "name": "Template",
+        "description": "Uma carta exemplo.",
+        "imagelink": "https://media.discordapp.net/attachments/1377487891793707078/1381014683066171492/image.png?ex=6845f9a6&is=6844a826&hm=f4e7bd4ea5bc210023e53f8b46fa592caa8cb670065df2378f8ec4c1dba1c399&=&format=webp&quality=lossless&width=950&height=950"
+    },
+    "coin1": {
+        "hiteffect": "+1 Pontuação",
+        "hitgain": 1,
+        "misseffect": "-1 Pontuação",
+        "missloss": -1
+    },
+    "coin2": {
+        "hiteffect": "+1 Pontuação",
+        "hitgain": 1,
+        "misseffect": "-1 Pontuação",
+        "missloss": -1
+    },
+    "coin3": {
+        "hiteffect": "+1 Pontuação",
+        "hitgain": 1,
+        "misseffect": "-1 Pontuação",
+        "missloss": -1
+    },
+    "coin4": {
+        "hiteffect": "+1 Pontuação",
+        "hitgain": 1,
+        "misseffect": "-1 Pontuação",
+        "missloss": -1
+    },
+    "coin5": {
+        "hiteffect": "+1 Pontuação",
+        "hitgain": 1,
+        "misseffect": "-1 Pontuação",
+        "missloss": -1
+    }
+}
