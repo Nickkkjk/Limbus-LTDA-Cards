@@ -1,40 +1,40 @@
 {
     "Carta":{
       
-      "Nome": "Exemplo"
-      "Descricao": "Essa é uma carta exemplo!"
-      "LinkImagem": "https://cdn.discordapp.com/attachments/1377487891793707078/1380948365134663781/Desenho_4_4.png?ex=6845bbe3&is=68446a63&hm=7337f928260747129256f6a114679886aba8cc28ef584eb1aca79f4e5e80ecf8&"
-      "EscalaNome":"Corpo ou Mente, sla escolhe ai"
+      "Nome": "Exemplo",
+      "Descricao": "Essa é uma carta exemplo!",
+      "LinkImagem": "https://cdn.discordapp.com/attachments/1377487891793707078/1380948365134663781/Desenho_4_4.png?ex=6845bbe3&is=68446a63&hm=7337f928260747129256f6a114679886aba8cc28ef584eb1aca79f4e5e80ecf8&",
+      "EscalaNome":"Corpo ou Mente, sla escolhe ai",
 
       "Moeda1":{
-        "Acerto":"Faz tal coisa ai de bom"
-        "AcertoPonto":1
-        "Erro":"Faz tal coisa ai de ruim"
-        "ErroPonto":-1
-      }
+        "Acerto":"Faz tal coisa ai de bom",
+        "AcertoPonto":1,
+        "Erro":"Faz tal coisa ai de ruim",
+        "ErroPonto":-1,
+      },
       "Moeda2":{
-        "Acerto":"Faz tal coisa ai de bom"
-        "AcertoPonto":1
-        "Erro":"Faz tal coisa ai de ruim"
-        "ErroPonto":-1
-      }
+        "Acerto":"Faz tal coisa ai de bom",
+        "AcertoPonto":1,
+        "Erro":"Faz tal coisa ai de ruim",
+        "ErroPonto":-1,
+      },
       "Moeda3":{
-        "Acerto":"Faz tal coisa ai de bom"
-        "AcertoPonto":1
-        "Erro":"Faz tal coisa ai de ruim"
-        "ErroPonto":-1
-      }
+        "Acerto":"Faz tal coisa ai de bom",
+        "AcertoPonto":1,
+        "Erro":"Faz tal coisa ai de ruim",
+        "ErroPonto":-1,
+      },
       "Moeda4":{
-        "Acerto":"Faz tal coisa ai de bom"
-        "AcertoPonto":1
-        "Erro":"Faz tal coisa ai de ruim"
-        "ErroPonto":-1
-      }
+        "Acerto":"Faz tal coisa ai de bom",
+        "AcertoPonto":1,
+        "Erro":"Faz tal coisa ai de ruim",
+        "ErroPonto":-1,
+      },
       "Moeda5":{
-        "Acerto":"Faz tal coisa ai de bom"
-        "AcertoPonto":1
-        "Erro":"Faz tal coisa ai de ruim"
-        "ErroPonto":-1
+        "Acerto":"Faz tal coisa ai de bom",
+        "AcertoPonto":1,
+        "Erro":"Faz tal coisa ai de ruim",
+        "ErroPonto":-1,
       }
-  }
+    }
 }
